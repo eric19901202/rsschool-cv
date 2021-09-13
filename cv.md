@@ -1,4 +1,3 @@
-
 # **Rakhmatullin Eric** 
 ## **Contacts** 
 * Location: Tashkent, Uzbekistan
@@ -8,13 +7,14 @@
 ## **About me** 
 * I am sociable and able to work in a team and really want to develop new skills. I am a reliable person and I try to get the job done on time.
 ## **Code Example**
+
 ```javascript
  function sum(a,b){
      return a/b;
  }
-
- console.log(sum(6,2))
+ console.log(sum(6,2)) 
  ```
+
  ## **My skills**
  * Html
  * Css
