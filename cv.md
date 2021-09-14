@@ -4,11 +4,6 @@
 * Phone: +99897 733 54 38
 * Email: [raxmatullineric19900212@gmail.com](raxmatullineric19900212@gmail.com)
 * GitHub:  [eric19901202 ](https://github.com/eric19901202)
-## **About me** 
-* I am sociable and able to work in a team and really want to develop new skills. I am a reliable person and I try to get the job done on time.
-
-
-
  ## **My skills**
  * Html
  * Css
@@ -33,3 +28,5 @@
  }
  console.log(sum(6,2)) 
  ```
+## **About me** 
+* I am sociable and able to work in a team and really want to develop new skills. I am a reliable person and I try to get the job done on time.
